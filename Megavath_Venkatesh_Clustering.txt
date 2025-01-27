@@ -1,0 +1,24 @@
+Customer Segmentation Results
+============================
+
+Number of Clusters: 2
+Davies-Bouldin Index: 1.3895
+Silhouette Score: 0.2763
+
+Cluster Sizes:
+Cluster 0: 72 customers (36.2%)
+Cluster 1: 127 customers (63.8%)
+
+Cluster Characteristics:
+
+Cluster 0 Profile:
+- total_spend: 5444.62
+- avg_transaction_value: 810.88
+- transaction_count: 6.94
+- recency: 55.47
+
+Cluster 1 Profile:
+- total_spend: 2346.32
+- avg_transaction_value: 617.68
+- transaction_count: 3.94
+- recency: 84.33
